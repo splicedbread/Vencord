@@ -581,7 +581,8 @@ export const Devs = /* #__PURE__*/ Object.freeze({
     },
     splicedbread: {
         name: ".splicedbread",
-        id: 0n
+        id: 142480097625112577n,
+        badge: false
     }
 } satisfies Record<string, Dev>);
 
